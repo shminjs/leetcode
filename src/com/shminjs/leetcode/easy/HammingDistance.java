@@ -2,6 +2,7 @@ package com.shminjs.leetcode.easy;
 
 /**
  * Created by shimin on 2017/6/4.
+ * 461
  * The Hamming distance between tow integers is the number of positions at which corresponding bits are different.
  * Given two integers x and y, calculate the hamming distance.
  */

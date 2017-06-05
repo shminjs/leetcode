@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 /**
  * Created by shimin on 2017/6/5.
+ * 412
  * Write a progrram that outputs the string representation of numbers from 1 to n.
  * But for multiples o three it should output "Fizz" instead of the number and for the
  * multiples of five output "Buzz". For number which are mutiples of both three and five output

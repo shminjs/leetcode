@@ -2,6 +2,7 @@ package com.shminjs.leetcode.easy;
 
 /**
  * Created by shimin on 2017/6/5.
+ * 500
  * Given a List of words, return words that can be typed using letters of alphabet on only rows's of American keyboard like the image below.
  */
 public class FindWords {

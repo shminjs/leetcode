@@ -2,6 +2,7 @@ package com.shminjs.leetcode.easy;
 
 /**
  * Created by shimin on 2017/6/4.
+ * 476
  * Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary represents.
  */
 public class FindComplement {

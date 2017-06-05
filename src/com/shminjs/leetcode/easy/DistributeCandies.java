@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by shimin on 2017/6/5.
+ * 575
  * Given an integer array with even length, where different numbers in this array represent different kinds of candies. Each number means
  * one candy of corresponding kind. You need to distribute thiese candies equally in number to brother and sister. Return the maximum number
  * of kinds of candies the sister could gain.

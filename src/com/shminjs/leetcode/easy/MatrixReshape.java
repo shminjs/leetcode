@@ -2,6 +2,7 @@ package com.shminjs.leetcode.easy;
 
 /**
  * Created by shimin on 2017/6/5.
+ * 566
  * In MATLAB, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different size but keep its original
  * data.
  * You're give amatrix represented by a two-dimensional array, and tow psitive integers r and c representing the row number and column number of

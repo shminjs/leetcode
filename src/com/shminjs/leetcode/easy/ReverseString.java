@@ -2,6 +2,7 @@ package com.shminjs.leetcode.easy;
 
 /**
  * Created by shimin on 2017/6/5.
+ * 344
  * Write a function that takes a string as input and returns the string reversed.
  */
 public class ReverseString {
