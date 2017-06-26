@@ -5,7 +5,7 @@ import java.util.Queue;
 
 /**
  * Created by shimin on 2017/6/26.
- * 116
+ * 116.117
  * Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
  * Initially, all next pointer are set to null.
  */
