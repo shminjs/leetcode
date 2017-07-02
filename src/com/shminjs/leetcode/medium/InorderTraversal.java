@@ -2,8 +2,6 @@ package com.shminjs.leetcode.middle;
 
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
-import java.util.Stack;
 
 /**
  * Created by shimin on 2017/6/25.

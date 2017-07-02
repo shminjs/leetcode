@@ -1,10 +1,5 @@
 package com.shminjs.leetcode.middle;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-
 /**
  * Created by shimin on 2017/6/25.
  * 337
