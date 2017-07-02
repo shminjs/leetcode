@@ -1,4 +1,4 @@
-package com.shminjs.leetcode.middle;
+package com.shminjs.leetcode.medium;
 
 import java.util.*;
 

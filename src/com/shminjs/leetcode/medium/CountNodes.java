@@ -1,4 +1,4 @@
-package com.shminjs.leetcode.middle;
+package com.shminjs.leetcode.medium;
 
 /**
  * Created by shimin on 2017/6/27.
