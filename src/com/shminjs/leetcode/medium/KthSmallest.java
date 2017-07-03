@@ -6,7 +6,6 @@ import java.util.Map;
 /**
  * Created by shimin on 2017/6/25.
  * Given a binary search tree, write a function k-th-smallest to find the k-th smallest element in it.
-
  */
 public class KthSmallest {
     int val;
