@@ -9,22 +9,13 @@ import sun.reflect.generics.tree.Tree;
  */
 public class SumOfLeftLeaves {
     public int sumOfLeftLeaves(TreeNode root) {
-        TreeNode prev = null;
-        return calculateLeft(root, prev);
+        return sumOfLeaves(root, false);
     }
 
-    private int calculateLeft(TreeNode root, TreeNode prev) {
-        // 感觉需要后序遍历
-        if (root == null) {
-            return 0;
-        }
-        int left = calculateLeft(root.left, root);
-        int right = calculateLeft(root.right, root);
-        if (prev != null && prev.left == root && root.left == null && root.right == null) {
-            return root.val;
-        } else {
-            return left + right;
-        }
+    private int sumOfLeaves(TreeNode root, boolean side) {
+        if (root == null) return 0;
+        if (side && root.left == null && root.right == null) return root.val;
+        return sumOfLeaves(root.left, true) + sumOfLeaves(root.right, false);
     }
 
     public static void main(String[] args) {
